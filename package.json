@@ -1,0 +1,28 @@
+{
+  "name": "qmate-website",
+  "version": "1.0.0",
+  "description": "Qtoniq Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apputhegreat/Qmate-website.git"
+  },
+  "keywords": [
+    "Qtoniq",
+    "Qmate",
+    "quotes",
+    "quote"
+  ],
+  "author": "Qtoniq Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apputhegreat/Qmate-website/issues"
+  },
+  "homepage": "https://github.com/apputhegreat/Qmate-website#readme",
+  "dependencies": {
+    "firebase-tools": "^3.18.4"
+  }
+}
