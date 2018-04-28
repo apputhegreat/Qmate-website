@@ -348,7 +348,7 @@ header.masterhead .slider{
 
   .downloadapp{
     position: relative;
-    top:170px;
+    top:-15px;
   }
 
   .downloadapp h4{
@@ -419,7 +419,7 @@ header.masterhead .slider{
 
   .feature_mob{
     position: relative;
-    top:140px;
+    top:300px;
     right:0px;
   }
 
